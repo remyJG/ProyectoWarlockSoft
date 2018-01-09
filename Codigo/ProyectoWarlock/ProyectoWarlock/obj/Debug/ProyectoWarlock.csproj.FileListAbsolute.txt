@@ -1,0 +1,5 @@
+C:\Users\raker\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoReviewsoft\ProyectoReviewsoft\obj\Debug\ProyectoReviewsoft.dll
+C:\Users\raker\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoReviewsoft\ProyectoReviewsoft\obj\Debug\ProyectoReviewsoft.pdb
+C:\Users\raker\Downloads\ipc2\vacaciones2017\FASE1_201404318\SCRIPT HTML\ProyectoWarlock\ProyectoReviewsoft\obj\Debug\ProyectoWarlock.csprojResolveAssemblyReference.cache
+C:\Users\raker\Downloads\ipc2\vacaciones2017\FASE1_201404318\SCRIPT HTML\ProyectoWarlock\ProyectoReviewsoft\obj\Debug\ProyectoReviewsoft.dll
+C:\Users\raker\Downloads\ipc2\vacaciones2017\FASE1_201404318\SCRIPT HTML\ProyectoWarlock\ProyectoReviewsoft\obj\Debug\ProyectoReviewsoft.pdb
